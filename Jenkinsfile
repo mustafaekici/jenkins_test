@@ -2,5 +2,5 @@
 import com.dai.test
 
 
-def mytest = new Test()
+def mytest = new test()
 mytest.foo()
