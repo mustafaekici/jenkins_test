@@ -3,4 +3,4 @@ import com.dai.test
 
 
 def mytest = new test()
-mytest.foo()
+mytest.foo("ci")
