@@ -21,5 +21,5 @@
 import com.dai.ci
 // instantiate
 pl = new ci()
-pl.Blackduck()
-pl.PythonLinter()
+echo pl.Blackduck()
+echo PythonLinter()
