@@ -18,8 +18,8 @@
 //     }
 // }
 
-import com.dai.*
+import com.dai.ci
 // instantiate
-pl = new pipeline()
+pl = new ci()
 pl.Blackduck()
 pl.PythonLinter()
