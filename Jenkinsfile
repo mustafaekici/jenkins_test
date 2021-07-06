@@ -18,8 +18,8 @@
 //     }
 // }
 
-import com.dai.ci
+import com.dai.MyPipeline
 // instantiate
-pl = new pipeline(this)
+def pl = new MyPipeline(this)
 
 pl.foo()
