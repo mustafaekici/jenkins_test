@@ -21,6 +21,5 @@
 import com.dai.ci
 // instantiate
 pl = new ci()
-println pl.Blackduck()
-println pl.PythonLinter()
-println pl.foo()
+
+pl.foo()
