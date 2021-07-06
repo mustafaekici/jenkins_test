@@ -18,7 +18,7 @@
 //     }
 // }
 
-
+agent any
 // instantiate
 def pl = new MyPipeline(this)
 
