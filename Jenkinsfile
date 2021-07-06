@@ -18,8 +18,8 @@
 //     }
 // }
 
-import com.dai.MyPipeline
+import com.dai.mypipeline
 // instantiate
-def pl = new MyPipeline(this)
+def pl = new mypipeline(this)
 
 pl.foo()
