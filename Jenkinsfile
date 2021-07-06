@@ -23,3 +23,5 @@
 def pl = new MyPipeline(this)
 
 pl.foo()
+
+println "name = ${env.NODE_NAME}"
