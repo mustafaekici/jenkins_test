@@ -1,4 +1,4 @@
-@Library('shared-library')
+@Library('shared-library') import com.dai.MyPipeline
 // import com.dai.test
 
 
@@ -18,8 +18,8 @@
 //     }
 // }
 
-import com.dai.mypipeline
+
 // instantiate
-def pl = new mypipeline(this)
+def pl = new MyPipeline(this)
 
 pl.foo()
