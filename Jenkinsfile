@@ -21,4 +21,4 @@
 import com.dai.ci
 // instantiate
 pl = new ci()
-echo pl.foo()
+println pl.foo()
