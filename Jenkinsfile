@@ -20,6 +20,6 @@
 
 import com.dai.ci
 // instantiate
-pl = new ci()
+pl = new ci(this)
 
 pl.foo()
