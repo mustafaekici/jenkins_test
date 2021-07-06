@@ -20,6 +20,6 @@
 
 import com.dai.ci
 // instantiate
-pl = new ci(this)
+pl = new pipeline(this)
 
 pl.foo()
