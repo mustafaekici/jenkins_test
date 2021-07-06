@@ -18,7 +18,7 @@
 //     }
 // }
 
-import com.dai.ci
+import com.dai.*
 // instantiate
 pl = new pipeline(this)
 
